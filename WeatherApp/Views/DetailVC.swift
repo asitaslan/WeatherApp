@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DetailVC.swift
 //  WeatherApp
 //
 //  Created by Asit Aslan on 17.02.2021.
@@ -8,13 +8,20 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DetailVC: UIViewController {
 
+
+   
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+        // Do any additional setup after loading the view.
+     
+    }
+    
+
+  
 
 }
-
