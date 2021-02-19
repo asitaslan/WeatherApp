@@ -18,6 +18,7 @@
 		008224D425DE11B100DF5524 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 008224D325DE11B100DF5524 /* Assets.xcassets */; };
 		008224D725DE11B100DF5524 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 008224D525DE11B100DF5524 /* LaunchScreen.storyboard */; };
 		008224E025DE159100DF5524 /* CellVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 008224DF25DE159100DF5524 /* CellVC.swift */; };
+		00CDAACC25E03D7F00845577 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CDAACB25E03D7F00845577 /* BaseViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		008224D625DE11B100DF5524 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		008224D825DE11B100DF5524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		008224DF25DE159100DF5524 /* CellVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellVC.swift; sourceTree = "<group>"; };
+		00CDAACB25E03D7F00845577 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				008224CE25DE11AF00DF5524 /* ViewController.swift */,
 				008224DF25DE159100DF5524 /* CellVC.swift */,
 				0066B40525DE93E600B3FDAA /* DetailViewController.swift */,
+				00CDAACB25E03D7F00845577 /* BaseViewController.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				008224CF25DE11AF00DF5524 /* ViewController.swift in Sources */,
 				0066B40625DE93E600B3FDAA /* DetailViewController.swift in Sources */,
 				008224CB25DE11AF00DF5524 /* AppDelegate.swift in Sources */,
+				00CDAACC25E03D7F00845577 /* BaseViewController.swift in Sources */,
 				008224CD25DE11AF00DF5524 /* SceneDelegate.swift in Sources */,
 				0066B40D25DEA75C00B3FDAA /* WeatherService.swift in Sources */,
 			);
